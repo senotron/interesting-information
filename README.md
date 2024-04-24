@@ -3,7 +3,7 @@
 
 # Usage
 ```js
-const info = require("interesting-info")
+const info = require("interesting-information")
 console.log(info()) // Random information
 ```
 
