@@ -1,7 +1,7 @@
 {
-	"name": "interesting-information",
+	"name": "fun-fact",
 	"version": "0.0.1",
-	"description": "Gives random information",
+	"description": "Gives fun fact",
 	"main": "shukurzade.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,8 @@
 		"interesting",
 		"info",
 		"information",
-		"discord"
+		"discord",
+                "fun-fact"
 	],
 	"author": "Senan Shukurzade",
 	"license": "MIT"
