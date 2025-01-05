@@ -9,5 +9,6 @@ const fact = require("fun-fact")
 console.log(fact()) // Random fun fact
 ```
 # Links
+- [Website](https://senan.vercel.app)
 - [Discord](https://discord.gg/kkg8BmPU59)
 - [Youtube](https://www.youtube.com/channel/UCakcpjCJKKAJ-6B-fzjnVyA)
