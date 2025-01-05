@@ -1,10 +1,12 @@
-# interesting-info
-- Gives random interesting information.
+# 🌟 Star please <3
+
+# fun-fact
+- Gives random fun fact.
 
 # Usage
 ```js
-const info = require("interesting-information")
-console.log(info()) // Random information
+const fact = require("fun-fact")
+console.log(fact()) // Random fun fact
 ```
 # Links
 - [Discord](https://discord.gg/kkg8BmPU59)
